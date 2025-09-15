@@ -1,6 +1,5 @@
-Here’s the summary of regular expressions (regex) formatted in Markdown:
 
-```markdown
+
 # Summary of Regular Expressions (Regex)
 
 **Definition:**
@@ -65,6 +64,4 @@ Regular expressions (regex) are sequences of characters that form a search patte
 
 ## Conclusion
 Regular expressions are powerful tools for text processing, enabling complex pattern matching and manipulation. Mastery of regex can significantly enhance efficiency in data validation, searching, and text manipulation tasks.
-```
 
-Feel free to copy and use this Markdown summary as needed!
